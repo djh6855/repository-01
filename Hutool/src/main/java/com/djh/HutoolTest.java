@@ -12,5 +12,6 @@ public class HutoolTest {
         Console.log(ints);
         Console.log("---------");
         Console.log("----第二次添加-----");
+        Console.log("----第三次添加-----");
     }
 }
